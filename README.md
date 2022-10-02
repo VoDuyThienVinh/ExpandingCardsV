@@ -30,7 +30,7 @@ https://github.com/VoDuyThienVinh/ExpandingCardsV
 ## 5. Link Github-Page 😁
 
 ```link
-https://voduythienvinh.github.io/BurryLoading/
+https://voduythienvinh.github.io/ExpandingCardsV/
 ```
 
 ## Adapted From: 😉
